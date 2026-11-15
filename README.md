@@ -45,7 +45,7 @@
       <p><code>React</code> <code>Tailwind</code> <code>Express</code> <code>TypeScript</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/raihnchy12/Bot-wa-keuangan-umkm">KasKu — Bot WA UMKM</a></h3>
+      <h3><a href="https://github.com/raihnchy12/Bot-wa-keuangan-umkm">Bot WA UMKM</a></h3>
       <p>Bot WhatsApp pencatat keuangan untuk pelaku UMKM lewat webhook dan percakapan.</p>
       <p><code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code></p>
     </td>
