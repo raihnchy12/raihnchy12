@@ -40,23 +40,22 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🎨 Web Portofolio</h3>
+      <h3>🎨 <a href="https://portofolio-raihan-dev.vercel.app">Web Portofolio</a></h3>
       <p>Single-page modern minimalis dengan navbar glassmorphism, marquee teks outline, dan dark mode.</p>
       <p><code>React</code> <code>Tailwind</code> <code>Express</code> <code>TypeScript</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3>💬 KasKu — Bot WA UMKM</h3>
+      <h3>💬 <a href="https://github.com/raihnchy12/Bot-wa-keuangan-umkm">KasKu — Bot WA UMKM</a></h3>
       <p>Bot WhatsApp pencatat keuangan untuk pelaku UMKM lewat webhook dan percakapan.</p>
       <p><code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3>🏍️ Rental Motor Jogja</h3>
-      <p>Sistem manajemen rental motor Yogyakarta: booking, pembayaran, dan dashboard admin.</p>
-      <p><code>Next.js 15</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Auth.js</code></p>
+      <h3>💐 Fleur de Cynthia</h3>
+      <p>Website toko buket bunga dengan katalog produk yang cantik dan pemesanan yang mudah.</p>
+      <p><code>React</code> <code>Tailwind</code> <code>Node.js</code> <code>TypeScript</code></p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
