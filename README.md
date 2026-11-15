@@ -18,10 +18,10 @@
 
 ## Tentang Saya
 
-- Sedang mengerjakan **web portofolio**, **bot WhatsApp keuangan UMKM**, dan **sistem rental motor**
-- Fokus mendalami **TypeScript, Prisma, dan Next.js**
-- Suka membuat tampilan yang bersih, minimalis, dan interaktif
-- Hubungi saya lewat tautan di bagian bawah
+- **Junior Full-Stack Developer** asal Jakarta, menempuh pendidikan di **Pondok IT Yogyakarta**
+- Memegang teguh **integritas, kejujuran, dan amanah** dengan etika kerja yang bersih, transparan, dan profesional
+- Terbiasa membangun **aplikasi web interaktif, sistem berbasis database, dan integrasi API** dengan React, Node.js, PostgreSQL, dan TypeScript
+- Terus mengasah keterampilan untuk menghadirkan karya digital yang **berdampak positif dan solutif**
 
 ---
 
