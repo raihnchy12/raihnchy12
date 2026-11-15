@@ -56,7 +56,6 @@
     </td>
   </tr>
 </table>
----
 
 ## 📊 GitHub Stats
 
