@@ -18,10 +18,10 @@
 
 ## 👨‍💻 Tentang Saya
 
-- 🔭 Sedang mengerjakan **web portofolio**, **bot WhatsApp keuangan UMKM**, dan **sistem rental motor**
-- 🌱 Fokus mendalami **TypeScript, Prisma, dan Next.js**
-- 💡 Suka membuat tampilan yang bersih, minimalis, dan interaktif
-- 📫 Hubungi saya lewat tautan di bagian bawah
+-  Sedang mengerjakan **web portofolio**, **bot WhatsApp keuangan UMKM**, dan **sistem rental motor**
+-  Fokus mendalami **TypeScript, Prisma, dan Next.js**
+-  Suka membuat tampilan yang bersih, minimalis, dan interaktif
+-  Hubungi saya lewat tautan di bagian bawah
 
 ---
 
@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🎨 <a href="https://portofolio-raihan-dev.vercel.app">Web Portofolio</a></h3>
+      <h3>👨🏼‍💻 <a href="https://portofolio-raihan-dev.vercel.app">Web Portofolio</a></h3>
       <p>Single-page modern minimalis dengan navbar glassmorphism, marquee teks outline, dan dark mode.</p>
       <p><code>React</code> <code>Tailwind</code> <code>Express</code> <code>TypeScript</code></p>
     </td>
