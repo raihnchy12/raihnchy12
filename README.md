@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Raihan%20Nurcahyo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Halo%2C+saya+Raihan+%F0%9F%91%8B;Membangun+web+modern+%26+minimalis;Node.js+%C2%B7+Express+%C2%B7+TypeScript+%C2%B7+React;Selalu+belajar%2C+selalu+membangun+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Halo%2C+saya+Raihan;Membangun+web+modern+%26+minimalis;Node.js+%C2%B7+Express+%C2%B7+TypeScript+%C2%B7+React;Selalu+belajar%2C+selalu+membangun" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,10 +18,10 @@
 
 ## Tentang Saya
 
--  Sedang mengerjakan **web portofolio**, **bot WhatsApp keuangan UMKM**, dan **sistem rental motor**
--  Fokus mendalami **TypeScript, Prisma, dan Next.js**
--  Suka membuat tampilan yang bersih, minimalis, dan interaktif
--  Hubungi saya lewat tautan di bagian bawah
+- Sedang mengerjakan **web portofolio**, **bot WhatsApp keuangan UMKM**, dan **sistem rental motor**
+- Fokus mendalami **TypeScript, Prisma, dan Next.js**
+- Suka membuat tampilan yang bersih, minimalis, dan interaktif
+- Hubungi saya lewat tautan di bagian bawah
 
 ---
 
@@ -40,22 +40,24 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>👨🏼‍💻 <a href="https://portofolio-raihan-dev.vercel.app">Web Portofolio</a></h3>
+      <h3><a href="https://portofolio-raihan-dev.vercel.app">Web Portofolio</a></h3>
       <p>Single-page modern minimalis dengan navbar glassmorphism, marquee teks outline, dan dark mode.</p>
       <p><code>React</code> <code>Tailwind</code> <code>Express</code> <code>TypeScript</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3>💬 <a href="https://github.com/raihnchy12/Bot-wa-keuangan-umkm">KasKu — Bot WA UMKM</a></h3>
+      <h3><a href="https://github.com/raihnchy12/Bot-wa-keuangan-umkm">KasKu — Bot WA UMKM</a></h3>
       <p>Bot WhatsApp pencatat keuangan untuk pelaku UMKM lewat webhook dan percakapan.</p>
       <p><code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3>💐 <a href="https://fleur-de-cynthia.vercel.app">Fleur de Cynthia</a></h3>
+      <h3><a href="https://fleur-de-cynthia.vercel.app">Fleur de Cynthia</a></h3>
       <p>Website toko buket bunga dengan katalog produk yang cantik dan pemesanan yang mudah.</p>
       <p><code>React</code> <code>Tailwind</code> <code>Node.js</code> <code>TypeScript</code></p>
     </td>
   </tr>
 </table>
+
+---
 
 ## GitHub Stats
 
