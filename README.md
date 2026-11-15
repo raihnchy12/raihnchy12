@@ -50,7 +50,7 @@
       <p><code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3>💐 Fleur de Cynthia</h3>
+      <h3>💐 <a href="https://fleur-de-cynthia.vercel.app">Fleur de Cynthia</a></h3>
       <p>Website toko buket bunga dengan katalog produk yang cantik dan pemesanan yang mudah.</p>
       <p><code>React</code> <code>Tailwind</code> <code>Node.js</code> <code>TypeScript</code></p>
     </td>
