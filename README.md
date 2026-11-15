@@ -63,11 +63,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raihnchy12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raihnchy12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="top langs" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=raihnchy12&theme=tokyonight&hide_border=true&background=0f172a" alt="streak" />
 
 </div>
