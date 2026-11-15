@@ -1,5 +1,3 @@
-<!-- GANTI semua "USERNAME" dengan username GitHub kamu -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Raihan%20Nurcahyo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" alt="header" />
@@ -10,9 +8,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=6366f1&style=flat-square)
-![Followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=6366f1)
-![Stars](https://img.shields.io/github/stars/USERNAME?label=Stars&style=flat-square&color=6366f1)
+![Profile Views](https://komarev.com/ghpvc/?username=raihnchy12&label=Profile%20Views&color=6366f1&style=flat-square)
+![Followers](https://img.shields.io/github/followers/raihnchy12?label=Followers&style=flat-square&color=6366f1)
+![Stars](https://img.shields.io/github/stars/raihnchy12?label=Stars&style=flat-square&color=6366f1)
 
 </div>
 
@@ -65,12 +63,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raihnchy12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihnchy12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="top langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0f172a" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=raihnchy12&theme=tokyonight&hide_border=true&background=0f172a" alt="streak" />
 
 </div>
 
@@ -81,9 +79,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raihnchy12/raihnchy12/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raihnchy12/raihnchy12/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/raihnchy12/raihnchy12/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
