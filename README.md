@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
+## Tentang Saya
 
 -  Sedang mengerjakan **web portofolio**, **bot WhatsApp keuangan UMKM**, dan **sistem rental motor**
 -  Fokus mendalami **TypeScript, Prisma, dan Next.js**
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 Proyek Pilihan
+## Proyek Pilihan
 
 <table>
   <tr>
@@ -57,7 +57,7 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 🐍 Snake Game — Grafik Kontribusi
+## Snake Game — Grafik Kontribusi
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 
 ---
 
-## 🤝 Mari Terhubung
+## Mari Terhubung
 
 <div align="center">
 
